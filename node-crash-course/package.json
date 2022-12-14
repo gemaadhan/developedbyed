@@ -1,0 +1,14 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "This is just a small crash course on one",
+  "main": "app.js",
+  "scripts": {
+    "develop": "nodemon app.js"
+  },
+  "author": "Gema",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
